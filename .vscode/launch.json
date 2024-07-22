@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "https://localhosts.mobi/8080",
+            "request": "launch",
+            "url": "https://localhosts.mobi/8080"
+        }
+    ]
+}
